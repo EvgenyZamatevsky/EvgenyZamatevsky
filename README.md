@@ -1,16 +1,27 @@
-### Hi there 👋
+**# 👋 Hi, my name is **Evgeniy Zamatevskiy**!**
 
-<!--
-**EvgeniyZamatevskiy/EvgeniyZamatevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a beginner *Front-end developer* from Belarus.
 
-Here are some ideas to get you started:
+### Languages and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+
+![ReactJS](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+
+![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge&logo=API)
+
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+
+### &#9993; Mail me: jerry.zam.999@gmail.com
+
+### &#128222; Telegram: @ZaM32
+
+### &#128222; Instagram: zam.999
+
+#

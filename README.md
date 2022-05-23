@@ -1,27 +1,12 @@
-**# 👋 Hi, my name is **Evgeniy Zamatevskiy**!**
+Hi there 👋 , I'm Evgeniy!
+I’m a frontend developer.
+And I'm currently looking for a job.
 
-## I'm a beginner *Front-end developer* from Belarus.
+🙌I love to write code
+💪I enjoy constantly learning new things
+💥I'm an enthusiastic React and Typescript coder
+Languages and tools:
+HTML5, CSS3, JavaScript, React.js, react-redux, TypeScript, Storybook, Unit tests, Git
 
-### Languages and Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-
-![ReactJS](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-
-![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge&logo=API)
-
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-
-### &#9993; Mail me: jerry.zam.999@gmail.com
-
-### &#128222; Telegram: @ZaM32
-
-### &#128222; Instagram: zam.999
-
-#
+Connect with me:
+jerry.zam.99@gmail.com

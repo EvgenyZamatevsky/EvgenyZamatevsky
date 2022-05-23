@@ -1,6 +1,8 @@
 # 👋 Hi, my name is Evgeniy Zamatevskiy!
 
-## I'm a beginner Front-end developer from Belarus.
+## I'm Front-end developer
+
+# And I'm currently looking for a job.
 
 ### Languages and Technologies
 

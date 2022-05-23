@@ -8,8 +8,6 @@
 
 ### &#9993; Mail me: jerry.zam.999@gmail.com
 
-### &#128222; Telegram: @ZaM32
-
-### &#128222; Instagram: zam.999
+### &#128222; Telegram: [@ZaM32](https://t.me/ZaM32)
 
 #

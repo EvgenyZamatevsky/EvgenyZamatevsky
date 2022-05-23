@@ -1,6 +1,6 @@
-**# 👋 Hi, my name is **Evgeniy Zamatevskiy**!**
+# 👋 Hi, my name is Evgeniy Zamatevskiy!
 
-## I'm a beginner *Front-end developer* from Belarus.
+## I'm a beginner Front-end developer from Belarus.
 
 ### Languages and Technologies
 

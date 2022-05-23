@@ -2,6 +2,8 @@ Hi there 👋 , I'm Evgeniy!
 I’m a frontend developer.
 And I'm currently looking for a job.
 
+---
+
 🙌I love to write code
 💪I enjoy constantly learning new things
 💥I'm an enthusiastic React and Typescript coder

@@ -1,13 +1,16 @@
-# 👋 Hi, my name is Evgeniy Zamatevskiy!
+### Hi there 👋 , I'm Evgeniy!
 
-## I'm Front-end developer
+### I’m a frontend developer.
 
-### Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript) ![ReactJS](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React) ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript) ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux) ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge&logo=API) ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-
-### &#9993; Mail me: jerry.zam.999@gmail.com
-
-### &#9993; Telegram: [@ZaM32](https://t.me/ZaM32)
-
-#
+<b>And I'm currently looking for a job.</b>
+<hr>
+<ul>
+  <li>🙌I love to write code</li>
+  <li>💪I enjoy constantly learning new things</li>
+  <li>💥I'm an enthusiastic React and Typescript coder</li>
+ </ul>
+<strong>Languages and tools:</strong>
+  <p>HTML5, CSS3, JavaScript, React.js, react-redux, TypeScript, Storybook, Unit tests, Git</p>
+<strong> Connect with me:</strong> 
+ ### &#9993; <p>jerry.zam.999@gmail.com</p>
+ ### &#9993; <p>https://t.me/ZaM32</p>

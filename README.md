@@ -9,7 +9,8 @@
   <li>💪I enjoy constantly learning new things</li>
   <li>💥I'm an enthusiastic React and Typescript coder</li>
  </ul>
-### Languages and tools:
+<h3>Languages and tools:</h3>
+
 <p>React/Redux/RTK/RTK Query</p>
 <p>JavaScript/ImmutableJS/TypeScript</p>
 <p>Axios/REST API/Postman</p>

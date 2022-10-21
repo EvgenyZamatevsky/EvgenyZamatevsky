@@ -11,6 +11,7 @@
  </ul>
 <strong>Languages and tools:</strong>
   <p>HTML5, CSS3, JavaScript, React.js, react-redux, TypeScript, Storybook, Unit tests, Git</p>
-<strong> Connect with me:</strong> 
- ### &#9993; <p>jerry.zam.999@gmail.com</p>
- ### &#9993; <p>https://t.me/ZaM32</p>
+<strong>Connect with me:</strong> 
+### &#9993; Mail me: jerry.zam.999@gmail.com
+
+### &#9993; Telegram: [@ZaM32](https://t.me/ZaM32)

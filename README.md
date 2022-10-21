@@ -12,14 +12,14 @@
 <h3>Languages and tools:</h3>
 
 <ul>
-<li>React/Redux/RTK/RTK Query</li>
-<li>JavaScript/ImmutableJS/TypeScript</li>
-<li>Axios/REST API/Postman</li>
-<li>TDD/Unit Tests</li>
-<li>React-hook-form/Formik</li>
-<li>Material UI/styled-components</li>
-<li>HTML5/CSS3/SCSS/CSS-modules</li>
-<li>Git/GitHub</li>
+<li>React / Redux / RTK / RTK Query</li>
+<li>JavaScript / ImmutableJS / TypeScript</li>
+<li>Axios / REST API / Postman</li>
+<li>TDD / Unit Tests</li>
+<li>React-hook-form / Formik</li>
+<li>Material UI / styled-components</li>
+<li>HTML5 / CSS3 / SCSS / CSS-modules</li>
+<li>Git / GitHub</li>
 </ul>
 <h3>Connect with me:</h3>
 

@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Evgeniy!
 
-### I’m a frontend developer.
+### I’m a Front-end developer.
 
 <b>And I'm currently looking for a job.</b>
 <hr>
@@ -10,7 +10,14 @@
   <li>💥I'm an enthusiastic React and Typescript coder</li>
  </ul>
 <strong>Languages and tools:</strong>
-  <p>HTML5, CSS3, JavaScript, React.js, react-redux, TypeScript, Storybook, Unit tests, Git</p>
+<p>React/Redux/RTK/RTK Query</p>
+<p>JavaScript/ImmutableJS/TypeScript</p>
+<p>Axios/REST API/Postman</p>
+<p>TDD/Unit Tests</p>
+<p>React-hook-form/Formik</p>
+<p>Material UI/styled-components</p>
+<p>HTML5/CSS3/SCSS/CSS-modules</p>
+<p>Git/GitHub</p>
 <strong>Connect with me:</strong> 
 
 ### &#9993; Mail me: jerry.zam.999@gmail.com

@@ -5,9 +5,9 @@
 <b>And I'm currently looking for a job.</b>
 <hr>
 <ul>
-  <li>🙌I love to write code</li>
-  <li>💪I enjoy constantly learning new things</li>
-  <li>💥I'm an enthusiastic React and Typescript coder</li>
+  <li>🙌 I love to write code</li>
+  <li>💪 I enjoy constantly learning new things</li>
+  <li>💥 I'm an enthusiastic React and Typescript coder</li>
  </ul>
 <h3>Languages and tools:</h3>
 

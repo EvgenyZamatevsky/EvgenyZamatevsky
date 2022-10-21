@@ -19,7 +19,7 @@
 <p>Material UI/styled-components</p>
 <p>HTML5/CSS3/SCSS/CSS-modules</p>
 <p>Git/GitHub</p>
-<strong>Connect with me:</strong> 
+<h3>Connect with me:</h3>
 
 ### &#9993; Mail me: jerry.zam.999@gmail.com
 

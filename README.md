@@ -17,7 +17,7 @@
 <li>Axios / REST API / Postman</li>
 <li>TDD / Unit Tests</li>
 <li>React-hook-form / Formik</li>
-<li>Material UI / styled-components</li>
+<li>Material UI / Ant Design / styled-components</li>
 <li>HTML5 / CSS3 / SCSS / CSS-modules</li>
 <li>Git / GitHub</li>
 </ul>

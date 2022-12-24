@@ -13,7 +13,7 @@
 
 <ul>
 <li>React / Redux / RTK / RTK Query</li>
-<li>JavaScript / ImmutableJS / TypeScript</li>
+<li>JavaScript / TypeScript</li>
 <li>Axios / REST API / Postman</li>
 <li>TDD / Unit Tests</li>
 <li>React-hook-form / Formik</li>

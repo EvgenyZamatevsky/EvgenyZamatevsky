@@ -2,8 +2,6 @@
 
 ### I’m a Front-end developer.
 
-<b>And I'm currently looking for a job.</b>
-<hr>
 <ul>
   <li>🙌 I love to write code</li>
   <li>💪 I enjoy constantly learning new things</li>

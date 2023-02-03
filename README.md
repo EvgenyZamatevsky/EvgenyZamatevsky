@@ -25,6 +25,6 @@
 
 ### &#9993; Mail me: jerry.zam.999@gmail.com
 
-### &#9993; Telegram: [@ZaM32](https://t.me/ZaM32)
+### &#9993; Telegram: [Evgeny_Zamatevsky](https://t.me/Evgeny_Zamatevsky)
 
 #

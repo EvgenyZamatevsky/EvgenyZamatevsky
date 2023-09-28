@@ -23,7 +23,7 @@
 </ul>
 <h3>Connect with me:</h3>
 
-### &#9993; Mail me: jerry.zam.999@gmail.com
+### &#9993; Mail me: zamatevsky.evgeny@gmail.com
 
 ### &#9993; Telegram: [Evgeny_Zamatevsky](https://t.me/Evgeny_Zamatevsky)
 

@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Evgeniy!
+### Hi there 👋 , I'm Evgeny!
 
 ### I’m a Front-end developer.
 

@@ -11,15 +11,12 @@
 
 <ul>
 <li>JavaScript / TypeScript</li>
-<li>Remix / React</li>
-<li>Redux / Redux Thunk / RTK / RTK Query</li>
-<li>Axios / REST API / Postman</li>
-<li>TDD / Unit Tests</li>
+<li>Remix / React /Redux / Redux-Toolkit</li>
+<li>RTK Query / Axios / REST API / Postman</li>
 <li>React-hook-form / Formik</li>
 <li>Material UI / TailwindCSS / styled-components</li>
 <li>HTML5 / CSS3 / SCSS / CSS-modules</li>
 <li>ESLint / Prettier</li>
-<li>Git / GitHub</li>
 </ul>
 <h3>Connect with me:</h3>
 

@@ -16,7 +16,7 @@
 <li>React-hook-form / Formik</li>
 <li>Material UI / TailwindCSS / styled-components</li>
 <li>HTML5 / CSS3 / SCSS / CSS-modules</li>
-<li>ESLint / Prettier</li>
+<li>ESLint / Prettier / Husky</li>
 </ul>
 <h3>Connect with me:</h3>
 

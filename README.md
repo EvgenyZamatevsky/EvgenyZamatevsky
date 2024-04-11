@@ -11,7 +11,7 @@
 
 <ul>
 <li>JavaScript / TypeScript</li>
-<li>Remix / React /Redux / Redux-Toolkit</li>
+<li>Remix / React / Redux / Redux-Toolkit</li>
 <li>RTK Query / Axios / REST API / Postman</li>
 <li>React-hook-form / Formik</li>
 <li>Material UI / TailwindCSS / styled-components</li>
